@@ -1,6 +1,6 @@
 # React + Node & Express 🚀
 
-Just a simple React + Node & Express application
+Just a really simple React + Node & Express application with a monorepo format
 
 ## How to run? 🙋‍♂️
 
